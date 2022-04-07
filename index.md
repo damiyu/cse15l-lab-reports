@@ -9,9 +9,6 @@ Here is a picture of a dog:
 ![Image](https://hips.hearstapps.com/hmg-prod.s3.amazonaws.com/images/dog-puppy-on-garden-royalty-free-image-1586966191.jpg?crop=1.00xw:0.669xh;0,0.190xh&resize=1200:*)
 > FYI, This is not my dog!
 
----
-
-
 # Yummy Desserts
 ## Page 2
 
@@ -19,17 +16,12 @@ Here is a picture of a dog:
 * Cheesecake
 * Donut
 
----
-
-
 # Top 3 Favorite Foods
 ## Page 3
 
 1. Pizza
 2. Sushi
 3. Burger + Fries
-
----
 
 # Highlight Section
 ## Page 4
@@ -40,7 +32,6 @@ Here is a picture of a dog:
 ```
 Highlighted
 Block
-1
-2
-3
 ```
+
+---
