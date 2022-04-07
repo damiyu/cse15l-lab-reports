@@ -31,13 +31,13 @@ Here is a picture of a dog:
 # Highlight Section
 ## Page 4
 
-'Highlighted Words'
+`Highlighted Words`
 
 
-...
+```
 Highlighted
 Block
 1
 2
 3
-...
+```
