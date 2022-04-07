@@ -26,7 +26,7 @@ Here is a picture of a dog:
 1. Pizza
 2. Sushi
 3. Burger + Fries
-4. ---
+---
 
 # Highlight Section
 ## Page 4
