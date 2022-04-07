@@ -1,10 +1,43 @@
-Testing my website ...
+# Darren's Website
+## Page 1
 
-a
-b
-c
+I want a **Computer Science major**, big *sad*!
+
+Here is a link to my website [Link](![image](https://user-images.githubusercontent.com/99768553/162236266-b892748b-bb3d-4afe-bf98-d935492ec4aa.png)
+
+Here is a picture of a dog:
+![Image](https://hips.hearstapps.com/hmg-prod.s3.amazonaws.com/images/dog-puppy-on-garden-royalty-free-image-1586966191.jpg?crop=1.00xw:0.669xh;0,0.190xh&resize=1200:*)
+> FYI, This is not my dog!
+---
+
+
+# Yummy Desserts
+## Page 2
+
+* Ice Cream
+* Cheesecake
+* Donut
+---
+
+
+# Top 3 Favorite Foods
+## Page 3
+
+1. Pizza
+2. Sushi
+3. Burger + Fries
+4. ---
+
+# Highlight Section
+## Page 4
+
+'Highlighted Words'
+
+
+...
+Highlighted
+Block
 1
 2
 3
-
-By: Darren Yu
+...
