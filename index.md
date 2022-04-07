@@ -36,3 +36,8 @@ Here is a picture of a dog:
 Highlighted
 Block
 ```
+
+# VS Code Edit
+## Page 5
+
+New text added from VS Code.
