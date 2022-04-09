@@ -42,7 +42,7 @@ Assuming you're in a fresh terminal, enter the command "scp WhereAmI.java cs15ls
 
 ![image](keygen.png)
 
-The process of logging in and uploading files is very tedious work. To skip inputting your password every time you log in or scp files, you can create a keygen. First, open a new terminal and enter "ssh-keygen". Keep pressing enter until a random art image is generated. Then, use the command "scp .ssh/id_rsa.pub cs15lsp22zz@ieng6.ucsd.edu:~/.ssh/authorized_keys" with your account. After putting in your password one last time, try logging into the server. You'll see you no longer need to enter your password.
+The process of logging in and uploading files is very tedious. To skip inputting your password every time you log in or scp files, you can create a keygen. First, open a new terminal and enter "ssh-keygen". Keep pressing enter until a random art image is generated. Then, use the command "scp .ssh/id_rsa.pub cs15lsp22zz@ieng6.ucsd.edu:~/.ssh/authorized_keys" with your account. After putting in your password one last time, try logging into the server. You'll see you no longer need to enter your password.
 
 ---
 **Optimizing Remote Running**
