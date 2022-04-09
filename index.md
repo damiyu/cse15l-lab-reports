@@ -3,7 +3,7 @@
 
 I want a **Computer Science major**, big *sad*!
 
-Here is a link to my website [Link](https://www.chess.com/)
+Here is a link to my website [Link](https://damiyu.github.io/cse15l-lab-reports/)
 
 ---
 
@@ -42,8 +42,4 @@ Block
 
 New text added from VS Code.
 
-[Lab Report 1](lab-report-1-week-2.md)
-
 [Lab Report 1](https://damiyu.github.io/cse15l-lab-reports/lab-report-1-week-2.html)
-
-[Link](test.md)
