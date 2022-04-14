@@ -1,25 +1,28 @@
-**Installing VScode**
+# Lab Report #1 Weeks 1-2
+
+
+### Installing VScode
 
 ![image](vscode.png)
 
 First, go to the installation page for [VS Code](https://code.visualstudio.com/download). Then download the correct operating system version for your computer. After the setup is done downloading, run it so the engine can install VS code.
 
 ---
-**Remotely Connecting**
+### Remotely Connecting
 
 ![image](remote.png)
 
 After VS Code is done installing, let's connect to the ieng6 server remotely through **ssh**. First, open VS Code and open up a terminal. Second, type "ssh cs15lsp22zz@ieng6.ucsd.edu" into the terminal. The account above is an example account; make sure to replace that account with your account. Third, enter your account password to log in. Note that your password won't type out for security purposes.
 
 ---
-**Trying Some Commands**
+### Trying Some Commands
 
 ![image](command.png)
 
 Once you're in the remote servers, let's run some commands. Trying entering the command "dir" into the terminal. This command shows all the files in the default directory. Next, try the command "ls -lat" and see what happens.
 
 ---
-**Moving Files with scp**
+### Moving Files with scp
 
 ![image](scp.png)
 
@@ -40,14 +43,14 @@ class WhereAmI {
 Assuming you're in a fresh terminal, enter the command "scp WhereAmI.java cs15lsp22zz@ieng6.ucsd.edu:~/" with your account instead. After you run this command, you will be required to enter your server password. Once you're done uploading your file, log into the server and check if your directory has the new file.
 
 ---
-**Setting an SSH Key**
+### Setting an SSH Key
 
 ![image](keygen.png)
 
 The process of logging in and uploading files is very tedious. To skip inputting your password every time you log in or scp files, you can create a keygen. First, open a new terminal and enter "ssh-keygen". Keep pressing enter until a random art image is generated. Then, use the command "scp .ssh/id_rsa.pub cs15lsp22zz@ieng6.ucsd.edu:~/.ssh/authorized_keys" with your account. After putting in your password one last time, try logging into the server. You'll see you no longer need to enter your password.
 
 ---
-**Optimizing Remote Running**
+### Optimizing Remote Running
 
 ![image](method.png)
 
