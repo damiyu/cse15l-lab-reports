@@ -25,6 +25,7 @@ Once you're in the remote servers, let's run some commands. Trying entering the 
 
 Now that we know how to access the servers remotely: let's upload a file to the directory of your server account. Let's say you have the java file "WhereAmI.java" and want to move this file to the server.
 
+```
 class WhereAmI {
   public static void main(String[] args) {
     System.out.println(System.getProperty("os.name"));
@@ -34,6 +35,7 @@ class WhereAmI {
   }
 
 }
+```
 
 Assuming you're in a fresh terminal, enter the command "scp WhereAmI.java cs15lsp22zz@ieng6.ucsd.edu:~/" with your account instead. After you run this command, you will be required to enter your server password. Once you're done uploading your file, log into the server and check if your directory has the new file.
 
