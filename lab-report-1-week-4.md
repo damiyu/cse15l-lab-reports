@@ -13,7 +13,7 @@
 ![Image](error1.png)
 The output should've been "[https://www.chess.com/home, https://www.desmos.com/calculator]"
 
-The failure-inducing input of this bug was "test-file2.md". The symptom of the bug was that the output had an extra unexpected link. The bug for this file was that an unpaired set of parenthesis caused the program to count the contents within these parentheses as a link.
+The failure-inducing input for this bug was "test-file2.md". The symptom of the bug was that the output had an extra unexpected link. The bug for this file was that an unpaired set of parenthesis caused the program to count the contents within these parentheses as a link.
 
 ## Bug 2
 
