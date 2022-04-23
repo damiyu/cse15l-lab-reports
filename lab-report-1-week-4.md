@@ -15,22 +15,9 @@
 **Error Message**
 ![]()
 
-**Contents of "test-file3.md"**
+**Link to "test-file3.md"**
 
-```
-Here is an unordered list of numbers:
-- 19
-- -3
-- 1024
-- 75
-- -92
-
-Here is a link:
-[Canvas Link](https://canvas.ucsd.edu)
-
-Here is not a link:
-[Not a Link](https://notalink.com>
-```
+[Test File #3](https://github.com/damiyu/markdown-parser/blob/main/test-file3.md)
 
 ## Bug 3
 
@@ -39,17 +26,4 @@ Here is not a link:
 
 **Contents of "test-file4.md"**
 
-```
-This a file to test the MarkdownParse file.
-
-Here is a random set of brackets and parenthesis.
-[12345]abcdefg(https://www.abc123.com)
-
-Here is the first link:
-[First Link](https://www.crunchyroll.com)
-
-Here are some more random brackets and parenthesis.
-
-Here is the second link:
-[Second Link](https://www.youtube.com)
-```
+[Test File #3](https://github.com/damiyu/markdown-parser/blob/main/test-file4.md)
