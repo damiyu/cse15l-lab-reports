@@ -12,7 +12,7 @@
 ## Bug 2
 
 **Error Message**
-![]()
+![Image](error2.png)
 
 **Link to "test-file3.md"**
 
@@ -21,7 +21,7 @@
 ## Bug 3
 
 **Error Message**
-![]()
+![Image](error3.png)
 
 **Contents of "test-file4.md"**
 
