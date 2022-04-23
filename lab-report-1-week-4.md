@@ -1,7 +1,7 @@
 # Lab Report #2 Weeks 2-4
 
 ## Bug 1
-
+[12345]](https://www.abc123.com)
 **Error Message**
 ![]()
 
