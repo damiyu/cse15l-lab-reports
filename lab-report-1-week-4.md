@@ -1,14 +1,19 @@
 # Lab Report #2 Weeks 2-4
 
-## Bug 1
+## First Test File
+
+**Changes Made**
+![Image](change1.png)
+
+**Link to "test-file2.md"**
+
+[Test File #2](https://github.com/damiyu/markdown-parser/blob/main/test-file2.md)
 
 **Error**
 ![Image](error1.png)
 The output should've been "[https://www.chess.com/home, https://www.desmos.com/calculator]"
 
-**Link to "test-file2.md"**
-
-[Test File #2](https://github.com/damiyu/markdown-parser/blob/main/test-file2.md)
+The failure-inducing input of this bug was "test-file2.md". The symptom of the bug was that the output had an extra unexpected link. The bug for this file was that an unpaired set of parenthesis caused the program to count the contents within these parentheses as a link.
 
 ## Bug 2
 
