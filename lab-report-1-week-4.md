@@ -1,7 +1,8 @@
 # Lab Report #2 Weeks 2-4
 
 ## Bug 1
-[Link](https://www.abc123.com)
+[Link](
+https://www.abc123.com)
 **Error Message**
 ![]()
 
