@@ -3,7 +3,7 @@
 ## Bug 1
 
 **Error Message**
-![]()
+![I1](error 1.png)
 
 **Link to "test-file2.md"**
 
