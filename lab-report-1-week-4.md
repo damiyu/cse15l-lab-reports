@@ -7,7 +7,7 @@
 
 **Link to "test-file2.md"**
 
-[Test File #2](https://github.damiyu.io/damiyu/markdown-parser/test-file2.html)
+[Test File #2](https://github.io.damiyu/damiyu/markdown-parser/test-file2.html)
 
 
 ## Bug 2
