@@ -3,7 +3,7 @@
 ## Bug 1
 
 **Error Message**
-![Image](scp.png)
+![Image](error1.png)
 
 **Link to "test-file2.md"**
 
