@@ -6,7 +6,8 @@
 ![]()
 
 **Link to "test-file2.md"**
-[Test File #2](https://github.com/damiyu/markdown-parser/test-file2.md)
+
+[Test File #2](https://github.com/damiyu/markdown-parser/test-file2.html)
 
 
 ## Bug 2
