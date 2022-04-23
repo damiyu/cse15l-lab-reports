@@ -6,8 +6,7 @@
 ![Image](error1.png)
 
 **Link to "test-file2.md"**
-
-[Test File #2](https://github.com/damiyu/markdown-parser/blob/main/test-file2.md)
+  [Test File #2](https://github.com/damiyu/markdown-parser/blob/main/test-file2.md)
 
 ## Bug 2
 
