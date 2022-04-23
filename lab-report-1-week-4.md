@@ -5,22 +5,8 @@
 **Error Message**
 ![]()
 
-**Contents of "test-file2.md"**
-```
-[Basic Link](https://www.chess.com/home)
-
-Useless test
-
-```
-public class Useless{
-    public static void main(String[] args) {
-        System.out.println("I am useless.");
-    }
-}
-```
-[Useful Link](https://www.desmos.com/calculator)
-```
-
+**Link to "test-file2.md"**
+[Test File #2](https://github.com/damiyu/markdown-parser/test-file2.md)
 
 
 ## Bug 2
