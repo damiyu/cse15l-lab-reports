@@ -37,7 +37,7 @@ The test file "test-file3.md" was the failure-inducing input for bug #2. The bug
 
 **Link to "test-file4.md"**
 
-[Test File #3](https://github.com/damiyu/markdown-parser/blob/main/test-file4.md)
+[Test File #4](https://github.com/damiyu/markdown-parser/blob/main/test-file4.md)
 
 **Error**
 ![Image](error3.png)
