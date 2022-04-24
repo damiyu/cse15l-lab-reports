@@ -28,7 +28,7 @@ The failure-inducing input for this bug was "test-file2.md". The symptom of the 
 ![Image](error2.png)
 The output should've been "[https://canvas.ucsd.edu]"
 
-The test file "test-file3.md" was the failure-inducing input for bug #2. The bug for "test-file3.md" was a missing parenthesis to close the second link, which meant it shouldn't have counted as a link. The symptom that lead to bug #2 was an extra unexpected link.
+The test file "test-file3.md" was the failure-inducing input for bug #2. The bug for "test-file3.md" was a missing parenthesis to close a second link, which meant the link was faulty. The symptom that lead to bug #2 was a string index out of bounds exception.
 
 ## Bug 3
 
