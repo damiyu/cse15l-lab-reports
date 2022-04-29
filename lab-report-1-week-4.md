@@ -43,4 +43,8 @@ The test file "test-file3.md" was the failure-inducing input for bug #2. The bug
 ![Image](error3.png)
 The output should've been "[https://www.abc123.com, https://www.crunchyroll.com, https://www.youtube.com]"
 
+<<<<<<< HEAD
 The symptom for this bug was an incomplete output of links. The bug for the failure-inducing input file "test-file4.md" was the program being unable to read brackets inside brackets, which caused the program to think the link was incomplete. Therefore, the program didn't copy the contains of the link.
+=======
+The symptom for this bug was an incomplete output of links. The bug for the failure-inducing input file "test-file4.md" was the program being unable to read brackets inside brackets, which caused the program to think the link was incomplete. Therefore, the program didn't copy the contains of the link.
+>>>>>>> 03575f6d05053a77645ae44762f768674579784b
