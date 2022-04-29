@@ -9,7 +9,7 @@
 
 [Test File #2](https://github.com/damiyu/markdown-parser/blob/main/test-file2.md)
 
-**Error**
+**Symptom**
 ![Image](error1.png)
 The output should've been "[https://www.chess.com/home, https://www.desmos.com/calculator]"
 
@@ -24,7 +24,7 @@ The failure-inducing input for this bug was "test-file2.md". The symptom of the 
 
 [Test File #3](https://github.com/damiyu/markdown-parser/blob/main/test-file3.md)
 
-**Error**
+**Symptom**
 ![Image](error2.png)
 The output should've been "[https://canvas.ucsd.edu]"
 
@@ -39,7 +39,7 @@ The test file "test-file3.md" was the failure-inducing input for bug #2. The bug
 
 [Test File #4](https://github.com/damiyu/markdown-parser/blob/main/test-file4.md)
 
-**Error**
+**Symptom**
 ![Image](error3.png)
 The output should've been "[https://www.abc123.com, https://www.crunchyroll.com, https://www.youtube.com]"
 
