@@ -12,17 +12,17 @@ This is me logging into my remote account after I set up my config for ieng6.
 
 ![Image](configscp.png)
 
-This is me using the `scp` command to copy a png to remote server.
+This is me using the `scp` command to copy a png to the remote server.
 
 ## Setup Github Access from ieng6
 
 ![Image](gitpublickey.png)
 
-In my Github settings, I added the public key to Github.
+In my Github settings, I added the public key.
 
 ![Image](gitpubpriv.png)
 
-In my user account, my Github public and private keys are stored in the .ssh directory.
+In my user account, my Github public and private keys are stored in the `.ssh` directory.
 
 ![Image](gitpush.png)
 
