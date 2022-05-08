@@ -8,7 +8,7 @@ After creating my config file, I used Window's Notepad to edit this file so I ca
 
 ![Image](configlog.png)
 
-This is me logging into my remote account.
+This is me logging into my remote account after I set up my config for ieng6.
 
 ![Image](configscp.png)
 
