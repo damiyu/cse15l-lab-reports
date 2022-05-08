@@ -43,6 +43,7 @@ This is me logging into my remote account and running the JUnit tests.
 ![Image](scptop.png)
 
 I combined the `scp` and `ssh` commands to copy my repository to my remote account and then run the tests.
+
 ![Image](scpbottom.png)
 
 This is a screenshot of the JUnit tests running after the files are copied.
