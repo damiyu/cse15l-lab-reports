@@ -12,7 +12,7 @@
 
 For snippet 1, the correct output for MarkdownParse should be `[google.com, google.com, ucsd.edu]`.
 
-The test:
+Our Test 1:
 ```
 @Test
     public void snippetOneTest() throws IOException {
@@ -36,6 +36,7 @@ Our implementation failed the JUnit test for snippet 1.
 
 For snippet 2, the correct output for MarkdownParse should be `[a.com, a.com(()), example.com]`.
 
+Our Test 2:
 ```
 @Test
         public void snippetTwoTest() throws IOException {
@@ -51,12 +52,15 @@ For snippet 2, the correct output for MarkdownParse should be `[a.com, a.com(())
         assertEquals(expected, links);
     }
 ```
+![Image](labfourimages/oursnip2.png)
+
+Our implementation failed the JUnit test for snippet 2.
 
 **Snippet 3**
 
 For snippet 3, the correct output for MarkdownParse should be `[https://www.twitter.com, https://sites.google.com/eng.ucsd.edu/cse-15l-spring-2022/schedule, https://cse.ucsd.edu/]`.
 
-<<<<<<< HEAD
+Our Test 3:
 ```
 @Test
         public void snippetThreeTest() throws IOException {
@@ -72,6 +76,10 @@ For snippet 3, the correct output for MarkdownParse should be `[https://www.twit
         assertEquals(expected, links);
     }
 ```
+
+![Image](labfourimages/oursnip3.png)
+
+Our implementation failed the JUnit test for snippet 3.
 
 ## Their Repo Tests
 
