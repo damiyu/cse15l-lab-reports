@@ -1,6 +1,5 @@
 # Lab Report #1 Weeks 1-2
 
-
 ### Installing VScode
 
 ![image](vscode.png)
