@@ -1,12 +1,12 @@
 # Lab Report #4 Weeks 7-8
 
-### Repo Links
+## Repo Links
 
 [Our Markdown Parser](https://github.com/thanhnhanlam/markdown-parser) : [My Copy](https://github.com/damiyu/ourrepo)
 
 [Their Markdown Parser](https://github.com/NuojinliXu/markdown-parser) : [My Copy](https://github.com/damiyu/theirrepo)
 
-### Our Repo Tests
+## Our Repo Tests
 
 **Snippet 1**
 
@@ -40,7 +40,7 @@ For snippet 2, the correct output for MarkdownParse should be `[a.com, a.com(())
 
 For snippet 3, the correct output for MarkdownParse should be `[https://www.twitter.com, https://sites.google.com/eng.ucsd.edu/cse-15l-spring-2022/schedule, https://cse.ucsd.edu/]`.
 
-### Their Repo Tests
+## Their Repo Tests
 
 
 
