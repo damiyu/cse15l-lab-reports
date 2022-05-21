@@ -73,10 +73,8 @@ For snippet 3, the correct output for MarkdownParse should be `[https://www.twit
     }
 ```
 
-### Their Repo Tests
-=======
 ## Their Repo Tests
->>>>>>> bab1c2c9b602833f56c8757451291305a49764b1
+
 
 
 
