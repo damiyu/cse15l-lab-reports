@@ -1,12 +1,12 @@
 # Lab Report #4 Weeks 7-8
 
-### Repo Links
+## Repo Links
 
 [Our Markdown Parser](https://github.com/thanhnhanlam/markdown-parser) : [My Copy](https://github.com/damiyu/ourrepo)
 
 [Their Markdown Parser](https://github.com/NuojinliXu/markdown-parser) : [My Copy](https://github.com/damiyu/theirrepo)
 
-### Our Repo Tests
+## Our Repo Tests
 
 **Snippet 1**
 
@@ -56,6 +56,7 @@ For snippet 2, the correct output for MarkdownParse should be `[a.com, a.com(())
 
 For snippet 3, the correct output for MarkdownParse should be `[https://www.twitter.com, https://sites.google.com/eng.ucsd.edu/cse-15l-spring-2022/schedule, https://cse.ucsd.edu/]`.
 
+<<<<<<< HEAD
 ```
 @Test
         public void snippetThreeTest() throws IOException {
@@ -73,14 +74,19 @@ For snippet 3, the correct output for MarkdownParse should be `[https://www.twit
 ```
 
 ### Their Repo Tests
+=======
+## Their Repo Tests
+>>>>>>> bab1c2c9b602833f56c8757451291305a49764b1
 
 
 
-### Questions
+## Questions
 
-Do you think there is a small (<10 lines) code change that will make your program work for snippet 1 and all related cases that use inline code with backticks? If yes, describe the code change. If not, describe why it would be a more involved change.
+1) Do you think there is a small (<10 lines) code change that will make your program work for snippet 1 and all related cases that use inline code with backticks? If yes, describe the code change. If not, describe why it would be a more involved change.
 
-Do you think there is a small (<10 lines) code change that will make your program work for snippet 2 and all related cases that nest parentheses, brackets, and escaped brackets? If yes, describe the code change. If not, describe why it would be a more involved change.
+Testing
 
-Do you think there is a small (<10 lines) code change that will make your program work for snippet 3 and all related cases that have newlines in brackets and parentheses? If yes, describe the code change. If not, describe why it would be a more involved change.
+2) Do you think there is a small (<10 lines) code change that will make your program work for snippet 2 and all related cases that nest parentheses, brackets, and escaped brackets? If yes, describe the code change. If not, describe why it would be a more involved change.
+
+3) Do you think there is a small (<10 lines) code change that will make your program work for snippet 3 and all related cases that have newlines in brackets and parentheses? If yes, describe the code change. If not, describe why it would be a more involved change.
 
