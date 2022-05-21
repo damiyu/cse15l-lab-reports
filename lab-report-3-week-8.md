@@ -11,7 +11,7 @@
 
 ### Our Repo Tests
 
-
+For snippet 1, the correct output for MarkdownParse should be `[google.com, google.com, ucsd.edu]`.
 
 
 
