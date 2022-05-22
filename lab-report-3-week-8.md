@@ -10,7 +10,7 @@
 
 **Snippet 1**
 
-For snippet 1, the correct output for MarkdownParse should be ``[`google.com, google.com, ucsd.edu]``.
+For snippet 1, the correct output for `MarkdownParse.java` should be ``[`google.com, google.com, ucsd.edu]``.
 
 Our Implementation Test 1:
 ```
@@ -34,7 +34,7 @@ Our implementation failed the JUnit test for snippet 1.
 
 **Snippet 2**
 
-For snippet 2, the correct output for MarkdownParse should be `[a.com, a.com(()), example.com]`.
+For snippet 2, the correct output for `MarkdownParse.java` should be `[a.com, a.com(()), example.com]`.
 
 Our Implementation Test 2:
 ```
@@ -58,7 +58,7 @@ Our implementation failed the JUnit test for snippet 2.
 
 **Snippet 3**
 
-For snippet 3, the correct output for MarkdownParse should be `[https://www.twitter.com, https://sites.google.com/eng.ucsd.edu/cse-15l-spring-2022/schedule, https://cse.ucsd.edu/]`.
+For snippet 3, the correct output for `MarkdownParse.java` should be `[https://www.twitter.com, https://sites.google.com/eng.ucsd.edu/cse-15l-spring-2022/schedule, https://cse.ucsd.edu/]`.
 
 Our Implementation Test 3:
 ```
@@ -85,7 +85,7 @@ Our implementation failed the JUnit test for snippet 3.
 
 **Snippet 1**
 
-For snippet 1, the correct output for MarkdownParse should be `[google.com, google.com, ucsd.edu]`.
+For snippet 1, the correct output for `MarkdownParse.java` should be `[google.com, google.com, ucsd.edu]`.
 
 Their Implementation Test 1:
 ```
@@ -109,7 +109,7 @@ Their implementation failed the JUnit test for snippet 1.
 
 **Snippet 2**
 
-For snippet 2, the correct output for MarkdownParse should be `[a.com, a.com(()), example.com]`.
+For snippet 2, the correct output for `MarkdownParse.java` should be `[a.com, a.com(()), example.com]`.
 
 Their Implementation Test 2:
 ```
@@ -133,7 +133,7 @@ Their implementation failed the JUnit test for snippet 2.
 
 **Snippet 3**
 
-For snippet 3, the correct output for MarkdownParse should be `[https://www.twitter.com, https://sites.google.com/eng.ucsd.edu/cse-15l-spring-2022/schedule, https://cse.ucsd.edu/]`.
+For snippet 3, the correct output for `MarkdownParse.java` should be `[https://www.twitter.com, https://sites.google.com/eng.ucsd.edu/cse-15l-spring-2022/schedule, https://cse.ucsd.edu/]`.
 
 Their Implementation Test 3:
 ```
