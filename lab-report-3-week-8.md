@@ -38,18 +38,18 @@ For snippet 2, the correct output for `MarkdownParse.java` should be `[a.com, a.
 
 Our Implementation Test 2:
 ```
-        @Test
-        public void snippetTwoTest() throws IOException {
-            Path fileName = Path.of("snippet2.md");
-            String content = Files.readString(fileName);
-            ArrayList<String> links = MarkdownParse.getLinks(content);
+    @Test
+    public void snippetTwoTest() throws IOException {
+        Path fileName = Path.of("snippet2.md");
+        String content = Files.readString(fileName);
+        ArrayList<String> links = MarkdownParse.getLinks(content);
 
-            ArrayList<String> expected = new ArrayList<String>();
-            expected.add("a.com");
-            expected.add("a.com(())");
-            expected.add("example.com");
+        ArrayList<String> expected = new ArrayList<String>();
+        expected.add("a.com");
+        expected.add("a.com(())");
+        expected.add("example.com");
 
-            assertEquals(expected, links);
+        assertEquals(expected, links);
     }
 ```
 ![Image](labfourimages/oursnip2.png)
@@ -62,18 +62,18 @@ For snippet 3, the correct output for `MarkdownParse.java` should be `[https://w
 
 Our Implementation Test 3:
 ```
-        @Test
-            public void snippetThreeTest() throws IOException {
-            Path fileName = Path.of("snippet3.md");
-            String content = Files.readString(fileName);
-            ArrayList<String> links = MarkdownParse.getLinks(content);
+    @Test
+        public void snippetThreeTest() throws IOException {
+        Path fileName = Path.of("snippet3.md");
+        String content = Files.readString(fileName);
+        ArrayList<String> links = MarkdownParse.getLinks(content);
 
-            ArrayList<String> expected = new ArrayList<String>();
-            expected.add("https://www.twitter.com");
-            expected.add("https://sites.google.com/eng.ucsd.edu/cse-15l-spring-2022/schedule");
-            expected.add("https://cse.ucsd.edu/");
+        ArrayList<String> expected = new ArrayList<String>();
+        expected.add("https://www.twitter.com");
+        expected.add("https://sites.google.com/eng.ucsd.edu/cse-15l-spring-2022/schedule");
+        expected.add("https://cse.ucsd.edu/");
 
-            assertEquals(expected, links);
+        assertEquals(expected, links);
     }
 ```
 
@@ -113,18 +113,18 @@ For snippet 2, the correct output for `MarkdownParse.java` should be `[a.com, a.
 
 Their Implementation Test 2:
 ```
-        @Test
-        public void snippetTwoTest() throws IOException {
-            Path fileName = Path.of("snippet2.md");
-            String content = Files.readString(fileName);
-            ArrayList<String> links = MarkdownParse.getLinks(content);
+    @Test
+    public void snippetTwoTest() throws IOException {
+        Path fileName = Path.of("snippet2.md");
+        String content = Files.readString(fileName);
+        ArrayList<String> links = MarkdownParse.getLinks(content);
 
-            ArrayList<String> expected = new ArrayList<String>();
-            expected.add("a.com");
-            expected.add("a.com(())");
-            expected.add("example.com");
+        ArrayList<String> expected = new ArrayList<String>();
+        expected.add("a.com");
+        expected.add("a.com(())");
+        expected.add("example.com");
 
-            assertEquals(expected, links);
+        assertEquals(expected, links);
     }
 ```
 ![Image](labfourimages/theirsnip2.png)
@@ -137,18 +137,18 @@ For snippet 3, the correct output for `MarkdownParse.java` should be `[https://w
 
 Their Implementation Test 3:
 ```
-        @Test
-        public void snippetThreeTest() throws IOException {
-            Path fileName = Path.of("snippet3.md");
-            String content = Files.readString(fileName);
-            ArrayList<String> links = MarkdownParse.getLinks(content);
+    @Test
+    public void snippetThreeTest() throws IOException {
+        Path fileName = Path.of("snippet3.md");
+        String content = Files.readString(fileName);
+        ArrayList<String> links = MarkdownParse.getLinks(content);
 
-            ArrayList<String> expected = new ArrayList<String>();
-            expected.add("https://www.twitter.com");
-            expected.add("https://sites.google.com/eng.ucsd.edu/cse-15l-spring-2022/schedule");
-            expected.add("https://cse.ucsd.edu/");
+        ArrayList<String> expected = new ArrayList<String>();
+        expected.add("https://www.twitter.com");
+        expected.add("https://sites.google.com/eng.ucsd.edu/cse-15l-spring-2022/schedule");
+        expected.add("https://cse.ucsd.edu/");
 
-            assertEquals(expected, links);
+        assertEquals(expected, links);
     }
 ```
 
