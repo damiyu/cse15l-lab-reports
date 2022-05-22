@@ -10,7 +10,7 @@
 
 **Snippet 1**
 
-For snippet 1, the correct output for MarkdownParse should be `[google.com, google.com, ucsd.edu]`.
+For snippet 1, the correct output for MarkdownParse should be ``[`google.com, google.com, ucsd.edu]``.
 
 Our Implementation Test 1:
 ```
